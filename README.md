@@ -1,7 +1,7 @@
 # 🏙️ 부산 지역화폐 분석 및 활성화 방안  
-📊 **Big Data 학회 비어플(Baf) 프로젝트**  
+📊 **Big Data 학회 비어플(Baf) 23-1학기 프로젝트 5조**  
 
-[![Website](https://img.shields.io/badge/Visit%20Baf-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dgubaf.com/)  
+[![Website](https://img.shields.io/badge/Visit%20Baf-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dgubaf.com/forum/peurojegteu/je19hoe-23-1haggi-peurojegteu-1)  
 
 ---
 
