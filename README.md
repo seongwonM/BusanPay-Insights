@@ -98,7 +98,7 @@
 
 ## 📎 관련 링크  
 🔗 **[Big Data 학회 비어플(Baf)](https://www.dgubaf.com/)**  
-🔗 **[프로젝트 발표 자료](docs/presentation.pdf)**  
+🔗 **[프로젝트 발표 자료](files/presentation.pdf)**  
 🔗 **[데이터 출처](https://www.data.go.kr/)**  
 
 ---
